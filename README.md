@@ -7,7 +7,7 @@ When I was 13, I decided to build my own website for fun. After days of struggli
 
 When I started to find my way around that, my father gave me the golden tip: “Why not try PHP?” Two months later, I was unstoppable. Everything revolved around code. At school, they could barely get me away from my laptop. Economics lessons? For me, that was the time to put together cool programs and creative projects. 😜
 
-From the age of 14 to 16, I was completely addicted to programming. And halfway through 2023, when I was 16, I joined Vormkracht10. That was a bit of a switch — my first real side job, and immediately a completely different world. 😆
+From the age of 14 to 16, I was completely addicted to programming. And halfway through 2023, when I was 16, I joined @vormkracht10. That was a bit of a switch — my first real side job, and immediately a completely different world. 😆
 
 But since I started working there, a whole new world has opened up for me. I really enjoy what I do and get satisfaction from creating beautiful things for others. And the best part? Every day that eureka moment when something works exactly as you had in mind. 🙂
 
