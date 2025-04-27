@@ -3,7 +3,7 @@
 I'm Manoj Hortulanus,
 
 
-When I was 13, I decided to build my own website for fun. After days of struggling with platforms like Wix and Jimdo, my father suddenly said: “You can also just make a website yourself, right?” Those words set something in motion. Weeks and months passed as I immersed myself in HTML, CSS and JavaScript. Before I knew it, I was creating login systems with alert boxes — pure fun. 😉
+When I was 14, I decided to build my own website for fun. After days of struggling with platforms like Wix and Jimdo, my father suddenly said: “You can also just make a website yourself, right?” Those words set something in motion. Weeks and months passed as I immersed myself in HTML, CSS and JavaScript. Before I knew it, I was creating login systems with alert boxes — pure fun. 😉
 
 When I started to find my way around that, my father gave me the golden tip: “Why not try PHP?” Two months later, I was unstoppable. Everything revolved around code. At school, they could barely get me away from my laptop. Economics lessons? For me, that was the time to put together cool programs and creative projects. 😜
 
